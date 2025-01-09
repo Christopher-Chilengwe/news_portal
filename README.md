@@ -1,4 +1,3 @@
-
 # InfoHub
 
 **InfoHub** is a comprehensive platform designed to deliver the latest news and career opportunities in one centralized hub. It consists of a user-friendly **User Module** for browsing content and a secure **Admin Module** for managing the platform.
@@ -84,5 +83,3 @@
 - **Email:** chilengwechristopher@gmail.com  
 
 ---
-
-Feel free to suggest any improvements or report issues in the repository. 
