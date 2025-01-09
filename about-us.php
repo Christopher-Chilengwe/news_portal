@@ -9,8 +9,8 @@ include('includes/config.php');
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="InfoHub is a comprehensive platform designed to deliver the latest news and career opportunities in one centralized hub. It consists of a user-friendly User Module for browsing content and a secure Admin Module for managing the platform.">
+    <meta name="author" content="Christopher Chilengwe">
 
     <title>News Portal | About us</title>
 
