@@ -191,7 +191,7 @@ while ($row=mysqli_fetch_array($query)) {
       <?php include('includes/footer.php');?>
 
 
-    <!-- Bootstrap core JavaScript -->
+    <!-- Bootstraps core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
