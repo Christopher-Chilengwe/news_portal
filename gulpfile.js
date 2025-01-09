@@ -5,7 +5,7 @@ var pkg = require('./package.json');
 // Copy third party libraries from /node_modules into /vendor
 gulp.task('vendor', function() {
 
-  // Bootstrap
+  // Bootstraps
   gulp.src([
       './node_modules/bootstrap/dist/**/*',
       '!./node_modules/bootstrap/dist/css/bootstrap-grid*',
